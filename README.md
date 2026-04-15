@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FantasyHelper - a machine learning based program to help users craft the statistically best FPL team<br> 🌱 I’m currently learning - ML, DL, Blockchain and Web3<br>💬 Ask me about - ML, DL, Blockchain and Web3, Software Engineering<br>⚡ Fun fact - I'm always up for a debate, whether it's on sports or techonology
+🔭 I’m currently working on BlockGuard - A full-stack machine learning solution to identify vulnerabilities in blockchain smart contracts <br> 🌱 I’m currently learning - ML, DL, Blockchain and Web3<br>💬 Ask me about - ML, DL, Blockchain and Web3, Software Engineering<br>⚡ Fun fact - I'm always up for a debate, whether it's on sports or techonology
 
 
 ## 🌐 Socials:
